@@ -1,0 +1,10 @@
+﻿Supplier_ID,Supplier_Name,Supplier_Location,Standard_Lead_Time
+S01,Shenzhen BrightTech Co.,shenzhen,18 days
+S02,Delhi Digital Distributors,New Delhi,7
+S03,Pune AppliancePro Pvt Ltd,Pune,10
+S04,Ahmedabad HomeWare Industries,Ahmedabad,12
+S05,Kolkata AgroFoods Ltd,KOLKATA,4
+S06,Indore Grain & Pulses Co.,Indore,6
+S06,Indore Grain and Pulses Co,"Indore, MP",5
+S07,Mumbai Lifecare Products,"Mumbai, MH",6 days
+S08,Chennai PaperMart,Chennai,

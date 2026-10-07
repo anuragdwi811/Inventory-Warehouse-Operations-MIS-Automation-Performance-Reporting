@@ -1,0 +1,33 @@
+﻿Product_ID,Product_Name,Category,Unit_Cost,Selling_Price
+P001,Wireless Mouse,Electronics ,320,466
+P001,Wireless Mouse (Old),Electronics ,320,466
+P002,USB-C Cable 1m,Electronics ,110,149
+P003,Bluetooth Earbuds,Electronics,900,1287
+P004,Power Bank 10000mAh,ELECTRONICS,,1117
+P005,LED Desk Lamp,Electronics,450,654
+P006,Smart Plug WiFi,Electronics,520,₹680
+P007,Electric Kettle 1.5L,Home Appliances,850,1060
+P008,Mixer Grinder 750W,Home Appliances,2600,3479
+P009,Induction Cooktop 2000W,Home Appliances,2300,
+P010,Room Heater 1500W,Home Appliances,1800,2237
+P011,Table Fan 400mm,Home Appliances,1400,1762
+P012,Steam Iron Box,Home Appliances,N/A,1111
+P013,Basmati Rice 5kg,Groceries,520,555
+P014,Sunflower Oil 1L,Groceries ,128,137
+P015,Whole Wheat Atta 10kg,Groceries,380,446
+P016,Tea Leaves 500g,grocery,210,231
+P017,Toor Dal 1kg,grocery,135,142
+P018,  Sugar 5kg ,Groceries ,,233
+P018,Sugar - Refined 5kg,Groceries ,,233
+P019,Herbal Shampoo 340ml,Personal Care,165,213
+P020,Sandalwood Soap 4pk,personal care ,120,154
+P021,Toothpaste 200g,Personal Care,85,Rs. 109
+P022,Face Wash 100ml,Personal Care,110,147
+P023,Body Lotion 400ml,Personal Care,205,275
+P024,  Hand Sanitizer 500ml ,Personal care,90,125
+P025,  A4 Paper Ream 500sh ,stationary,230,302
+P026,Ball Pen 10pk,Stationery,60,83
+P027,Spiral Notebook 6pk,Stationery,190,152
+P028,Heavy Duty Stapler,Stationery ,150,206
+P029,Highlighter Set 5pk,Stationery,85,123
+P030,Whiteboard Markers 4pk,Stationery ,95,137

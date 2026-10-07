@@ -1,0 +1,7 @@
+﻿Warehouse_ID,Warehouse_Name,City,Capacity
+W01,Kolkata Eastern Hub,kolkata,3500
+W02,Mumbai Central DC,Mumbai ,"4,100 units"
+W03,Delhi NCR Fulfilment Centre,New Delhi,4300
+W04,Bengaluru South Warehouse,Bangalore,3700
+W05,Chennai Port Warehouse,Chennai,
+W06,Pune Overflow Yard (Closed),Pune,0
